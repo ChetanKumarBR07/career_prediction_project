@@ -1,0 +1,101 @@
+Age,Stream,Math,Physics,Chemistry,Skills,Interests,Career
+17,Arts,45,27,17,Arts,Painting,Artist
+18,Commerce,98,42,36,Finance,Business,Chartered Accountant
+18,Science,83,59,95,Coding,AI,AI Researcher
+18,Science,20,61,66,Engineering,Physics,Engineer
+18,Science,92,43,97,Coding,AI,Software Engineer
+18,Commerce,78,23,42,Finance,Banking,Investment Banker
+19,Commerce,78,30,35,Finance,Banking,Investment Banker
+19,Science,64,64,43,Coding,AI,Software Engineer
+17,Commerce,66,48,35,Finance,Business,Chartered Accountant
+17,Arts,40,36,32,Arts,Painting,Artist
+18,Science,51,28,47,Engineering,Physics,Engineer
+18,Science,25,27,36,Coding,AI,Software Engineer
+19,Arts,18,34,18,Writing,History,Author
+17,Arts,49,14,39,Writing,History,Author
+19,Arts,30,46,36,Arts,Painting,Artist
+18,Arts,23,47,41,Writing,Literature,Journalist
+17,Science,30,62,80,Coding,AI,Software Engineer
+18,Commerce,98,35,17,Finance,Economics,Financial Analyst
+18,Science,48,77,95,Coding,AI,Software Engineer
+19,Science,26,59,71,Coding,AI,AI Researcher
+19,Arts,36,22,35,Writing,History,Author
+17,Science,23,97,74,Coding,AI,AI Researcher
+18,Arts,12,23,21,Writing,History,Author
+17,Arts,22,31,43,Arts,Painting,Artist
+19,Commerce,43,26,32,Finance,Business,Chartered Accountant
+17,Commerce,71,32,50,Finance,Banking,Investment Banker
+19,Arts,26,10,12,Writing,Literature,Journalist
+19,Science,50,97,37,Coding,Data Science,Data Scientist
+18,Arts,25,50,37,Arts,Painting,Artist
+17,Science,36,72,100,Engineering,Physics,Engineer
+18,Science,86,82,94,Coding,Data Science,Data Scientist
+19,Science,87,92,57,Engineering,Physics,Engineer
+19,Commerce,59,19,14,Finance,Business,Chartered Accountant
+19,Commerce,64,20,18,Finance,Economics,Financial Analyst
+19,Science,36,69,61,Engineering,Physics,Engineer
+18,Science,51,56,86,Coding,AI,Software Engineer
+18,Commerce,61,18,19,Finance,Economics,Financial Analyst
+18,Commerce,89,43,13,Finance,Banking,Investment Banker
+17,Science,51,42,60,Engineering,Physics,Engineer
+17,Commerce,50,14,17,Finance,Economics,Financial Analyst
+18,Science,63,61,77,Coding,AI,AI Researcher
+18,Commerce,81,26,36,Finance,Business,Chartered Accountant
+19,Commerce,75,14,16,Finance,Business,Chartered Accountant
+17,Science,71,98,31,Engineering,Physics,Engineer
+18,Science,100,59,86,Engineering,Physics,Engineer
+19,Arts,16,22,40,Arts,Painting,Artist
+19,Arts,44,50,38,Arts,Painting,Artist
+19,Arts,36,42,25,Writing,Literature,Journalist
+18,Arts,42,40,10,Writing,History,Author
+18,Commerce,100,34,35,Finance,Business,Chartered Accountant
+17,Commerce,63,31,32,Finance,Banking,Investment Banker
+17,Science,81,74,21,Coding,Data Science,Data Scientist
+17,Commerce,97,49,49,Finance,Business,Chartered Accountant
+19,Arts,13,17,45,Writing,History,Author
+19,Science,41,28,89,Engineering,Physics,Engineer
+18,Commerce,66,28,13,Finance,Banking,Investment Banker
+18,Commerce,52,45,34,Finance,Economics,Financial Analyst
+18,Arts,37,23,13,Arts,Painting,Artist
+18,Science,82,79,25,Engineering,Physics,Engineer
+17,Science,85,43,43,Coding,AI,AI Researcher
+17,Science,89,52,44,Coding,Data Science,Data Scientist
+19,Commerce,22,46,47,Finance,Business,Chartered Accountant
+19,Science,36,87,80,Coding,AI,Software Engineer
+19,Commerce,65,35,11,Finance,Business,Chartered Accountant
+18,Commerce,30,14,42,Finance,Business,Chartered Accountant
+17,Science,93,35,66,Engineering,Physics,Engineer
+19,Commerce,75,11,40,Finance,Banking,Investment Banker
+18,Arts,11,49,24,Arts,Painting,Artist
+18,Science,86,84,32,Engineering,Physics,Engineer
+18,Science,50,41,69,Engineering,Physics,Engineer
+17,Commerce,96,30,16,Finance,Economics,Financial Analyst
+18,Arts,12,28,34,Writing,Literature,Journalist
+19,Arts,42,37,39,Arts,Painting,Artist
+17,Commerce,56,36,44,Finance,Banking,Investment Banker
+17,Arts,16,13,29,Writing,History,Author
+19,Arts,18,18,39,Writing,History,Author
+19,Arts,28,23,46,Arts,Painting,Artist
+19,Science,34,91,72,Coding,AI,Software Engineer
+17,Science,21,76,37,Engineering,Physics,Engineer
+18,Arts,38,19,35,Arts,Painting,Artist
+17,Science,93,26,23,Coding,AI,Software Engineer
+17,Arts,17,10,44,Writing,Literature,Journalist
+18,Arts,26,47,46,Writing,Literature,Journalist
+19,Science,78,67,55,Coding,AI,Software Engineer
+19,Science,37,89,35,Coding,Data Science,Data Scientist
+17,Commerce,28,39,30,Finance,Economics,Financial Analyst
+19,Science,39,91,78,Coding,AI,Software Engineer
+17,Science,87,26,86,Engineering,Physics,Engineer
+19,Science,89,82,60,Coding,Data Science,Data Scientist
+19,Arts,36,24,50,Writing,History,Author
+19,Arts,19,33,46,Writing,History,Author
+19,Science,71,72,53,Coding,Data Science,Data Scientist
+18,Arts,22,34,50,Arts,Painting,Artist
+17,Science,91,24,26,Coding,Data Science,Data Scientist
+18,Commerce,31,38,40,Finance,Banking,Investment Banker
+19,Arts,24,15,10,Arts,Painting,Artist
+18,Commerce,42,43,37,Finance,Business,Chartered Accountant
+18,Commerce,83,18,34,Finance,Economics,Financial Analyst
+18,Arts,49,19,38,Writing,Literature,Journalist
+19,Arts,40,26,46,Arts,Painting,Artist

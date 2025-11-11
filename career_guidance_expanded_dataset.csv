@@ -1,0 +1,201 @@
+Marks_10th,Marks_12th,Preferred_Subjects,Skills,Interests,Strengths,Weaknesses,Extracurriculars,Learning_Style,Communication_Skills,Recommended_Career
+89,65,Biology,Debugging,Software Development,Creativity,Weak Writing,Hackathons,Theoretical,Poor,Marketing Manager
+72,78,Business Studies,Marketing,Software Development,Social Skills,Impulsiveness,Hackathons,Theoretical,Average,Electrical Engineer
+78,93,Literature,Research,Robotics,Problem-Solving,Impulsiveness,Music,Theoretical,Average,Lawyer
+95,87,Biology,Public Speaking,Finance,Problem-Solving,Public Speaking,Gaming,Practical,Poor,Psychologist
+65,79,History,Marketing,Marketing,Social Skills,Weak Writing,Volunteering,Visual,Poor,Software Engineer
+79,70,Business Studies,Marketing,AI,Problem-Solving,Impulsiveness,Gaming,Visual,Good,Graphic Designer
+83,74,Biology,Public Speaking,Marketing,Problem-Solving,Weak Math,Music,Practical,Excellent,Marketing Manager
+68,66,Computer Science,Writing,Finance,Analytical Thinking,Weak Writing,Sports,Visual,Good,Civil Engineer
+69,61,History,Design,AI,Problem-Solving,Impulsiveness,Music,Practical,Good,Software Engineer
+62,83,Biology,Design,Marketing,Patience,Public Speaking,Hackathons,Theoretical,Excellent,Software Engineer
+66,88,Physics,Design,Software Development,Social Skills,Public Speaking,Gaming,Practical,Average,Graphic Designer
+75,82,History,Programming,AI,Social Skills,Public Speaking,Gaming,Theoretical,Good,Investment Banker
+62,70,Literature,Research,Marketing,Patience,Shyness,Music,Visual,Excellent,Financial Analyst
+71,62,Physics,Leadership,Finance,Analytical Thinking,Shyness,Hackathons,Practical,Poor,Mechanical Engineer
+81,87,Physics,Leadership,Medicine,Logical Thinking,Public Speaking,Gaming,Theoretical,Poor,Lawyer
+89,82,Computer Science,Leadership,Software Development,Analytical Thinking,Shyness,Gaming,Practical,Good,Graphic Designer
+83,69,Physics,Design,Finance,Creativity,Shyness,Music,Practical,Average,Software Engineer
+75,72,Physics,Leadership,Journalism,Problem-Solving,Shyness,Hackathons,Visual,Average,Psychologist
+72,70,Computer Science,Marketing,Software Development,Patience,Shyness,Sports,Visual,Poor,Journalist
+80,79,Physics,Programming,Finance,Creativity,Weak Writing,Hackathons,Visual,Good,Electrical Engineer
+75,80,Business Studies,Public Speaking,AI,Social Skills,Public Speaking,Music,Theoretical,Good,Mechanical Engineer
+81,84,Literature,Research,Medicine,Logical Thinking,Public Speaking,Sports,Visual,Poor,Graphic Designer
+88,95,Physics,Research,Software Development,Analytical Thinking,Weak Math,Music,Theoretical,Excellent,Financial Analyst
+62,63,Computer Science,Public Speaking,Finance,Problem-Solving,Weak Math,Music,Visual,Good,Software Engineer
+91,70,Business Studies,Writing,Medicine,Creativity,Impulsiveness,Sports,Theoretical,Average,Civil Engineer
+75,87,Computer Science,Public Speaking,Robotics,Problem-Solving,Weak Math,Hackathons,Visual,Good,Investment Banker
+68,74,Biology,Design,AI,Analytical Thinking,Weak Math,Volunteering,Theoretical,Average,Civil Engineer
+87,72,Chemistry,Writing,Medicine,Analytical Thinking,Weak Writing,Gaming,Practical,Average,Financial Analyst
+88,77,Business Studies,Public Speaking,Robotics,Analytical Thinking,Weak Writing,Blogging,Practical,Excellent,Data Scientist
+86,95,Business Studies,Leadership,Law,Problem-Solving,Impulsiveness,Hackathons,Practical,Poor,Investment Banker
+61,66,Business Studies,Debugging,Robotics,Patience,Impulsiveness,Debates,Visual,Good,Research Scientist
+91,73,Maths,Design,Marketing,Analytical Thinking,Impulsiveness,Music,Practical,Excellent,Doctor
+95,95,History,Design,AI,Creativity,Weak Math,Blogging,Practical,Average,Software Engineer
+68,79,Biology,Debugging,Marketing,Creativity,Weak Writing,Sports,Theoretical,Excellent,Financial Analyst
+82,81,Literature,Leadership,Software Development,Logical Thinking,Weak Math,Gaming,Theoretical,Excellent,Doctor
+73,60,Chemistry,Marketing,Marketing,Problem-Solving,Impulsiveness,Debates,Visual,Poor,Doctor
+87,85,History,Debugging,Robotics,Analytical Thinking,Shyness,Blogging,Practical,Poor,Psychologist
+84,79,Chemistry,Design,AI,Patience,Public Speaking,Gaming,Practical,Average,Electrical Engineer
+87,94,Computer Science,Public Speaking,Finance,Logical Thinking,Weak Writing,Sports,Visual,Excellent,Marketing Manager
+67,85,Business Studies,Programming,Software Development,Analytical Thinking,Shyness,Blogging,Practical,Good,Electrical Engineer
+93,86,Physics,Design,Law,Social Skills,Shyness,Volunteering,Practical,Poor,Graphic Designer
+84,65,History,Debugging,Marketing,Problem-Solving,Public Speaking,Music,Practical,Poor,Lawyer
+76,88,Literature,Programming,Finance,Logical Thinking,Weak Math,Gaming,Practical,Average,Research Scientist
+77,72,Maths,Programming,Journalism,Logical Thinking,Public Speaking,Debates,Visual,Excellent,Electrical Engineer
+93,75,Business Studies,Research,Journalism,Analytical Thinking,Shyness,Gaming,Theoretical,Good,Civil Engineer
+67,88,Business Studies,Leadership,Journalism,Problem-Solving,Weak Writing,Hackathons,Theoretical,Good,Lawyer
+80,65,History,Leadership,Finance,Creativity,Weak Writing,Sports,Visual,Good,Research Scientist
+65,82,History,Design,Finance,Creativity,Weak Math,Volunteering,Theoretical,Good,Electrical Engineer
+64,92,Maths,Leadership,Law,Problem-Solving,Weak Math,Debates,Theoretical,Good,Mechanical Engineer
+81,93,Maths,Debugging,Law,Patience,Weak Writing,Gaming,Visual,Poor,Software Engineer
+78,80,Physics,Research,Software Development,Analytical Thinking,Weak Writing,Hackathons,Theoretical,Average,Doctor
+85,80,Physics,Design,AI,Analytical Thinking,Public Speaking,Blogging,Visual,Poor,Lawyer
+65,86,Maths,Public Speaking,Law,Social Skills,Shyness,Music,Visual,Poor,Psychologist
+84,79,Literature,Writing,Robotics,Logical Thinking,Weak Writing,Debates,Practical,Good,Doctor
+86,69,Computer Science,Design,Finance,Logical Thinking,Impulsiveness,Blogging,Practical,Excellent,Civil Engineer
+92,88,History,Debugging,Software Development,Creativity,Weak Writing,Hackathons,Visual,Good,Lawyer
+88,68,Computer Science,Research,Law,Creativity,Shyness,Music,Practical,Average,Marketing Manager
+63,88,Computer Science,Research,Robotics,Patience,Impulsiveness,Music,Practical,Good,Psychologist
+77,63,Literature,Programming,Medicine,Analytical Thinking,Weak Writing,Blogging,Theoretical,Average,Mechanical Engineer
+71,60,Business Studies,Design,Robotics,Logical Thinking,Shyness,Gaming,Theoretical,Excellent,Psychologist
+77,68,Chemistry,Design,Law,Creativity,Weak Writing,Gaming,Theoretical,Average,Doctor
+79,92,Computer Science,Public Speaking,Medicine,Patience,Public Speaking,Sports,Practical,Good,Research Scientist
+92,86,Computer Science,Public Speaking,AI,Patience,Weak Writing,Debates,Theoretical,Average,Software Engineer
+92,60,Computer Science,Debugging,Journalism,Creativity,Weak Math,Volunteering,Practical,Poor,Psychologist
+95,79,Chemistry,Writing,Law,Analytical Thinking,Public Speaking,Gaming,Visual,Excellent,Journalist
+94,72,Maths,Marketing,Software Development,Problem-Solving,Shyness,Gaming,Practical,Excellent,Research Scientist
+86,77,Maths,Research,Software Development,Analytical Thinking,Shyness,Gaming,Visual,Excellent,Investment Banker
+87,69,Computer Science,Marketing,AI,Analytical Thinking,Impulsiveness,Volunteering,Practical,Average,Marketing Manager
+66,63,Business Studies,Public Speaking,Software Development,Social Skills,Weak Writing,Hackathons,Visual,Good,Lawyer
+78,92,Biology,Debugging,Law,Problem-Solving,Public Speaking,Gaming,Practical,Average,Lawyer
+79,93,Chemistry,Leadership,Journalism,Logical Thinking,Impulsiveness,Hackathons,Theoretical,Good,Lawyer
+84,90,Business Studies,Design,Medicine,Creativity,Public Speaking,Blogging,Practical,Excellent,Doctor
+60,89,Business Studies,Programming,Medicine,Analytical Thinking,Weak Math,Hackathons,Visual,Good,Electrical Engineer
+60,89,Physics,Research,Law,Analytical Thinking,Public Speaking,Debates,Visual,Excellent,Psychologist
+65,60,Business Studies,Programming,Finance,Logical Thinking,Weak Math,Blogging,Theoretical,Good,Mechanical Engineer
+64,60,History,Public Speaking,Medicine,Logical Thinking,Weak Writing,Sports,Practical,Average,Financial Analyst
+60,65,Physics,Writing,AI,Social Skills,Impulsiveness,Debates,Practical,Poor,Investment Banker
+86,74,History,Debugging,Law,Logical Thinking,Impulsiveness,Blogging,Theoretical,Excellent,Graphic Designer
+79,85,Maths,Marketing,Marketing,Creativity,Public Speaking,Music,Theoretical,Poor,Lawyer
+74,82,Maths,Programming,Robotics,Social Skills,Weak Writing,Debates,Practical,Excellent,Software Engineer
+95,83,Physics,Programming,Marketing,Creativity,Shyness,Gaming,Visual,Excellent,Financial Analyst
+87,69,Physics,Leadership,Marketing,Patience,Weak Math,Volunteering,Practical,Good,Journalist
+83,92,Literature,Design,Journalism,Problem-Solving,Shyness,Blogging,Visual,Excellent,Psychologist
+67,79,Biology,Programming,Journalism,Patience,Shyness,Hackathons,Theoretical,Poor,Investment Banker
+78,60,Business Studies,Debugging,Robotics,Logical Thinking,Shyness,Blogging,Practical,Excellent,Software Engineer
+62,92,Biology,Writing,Journalism,Creativity,Impulsiveness,Sports,Visual,Poor,Mechanical Engineer
+65,86,Computer Science,Writing,Software Development,Logical Thinking,Weak Math,Volunteering,Theoretical,Good,Electrical Engineer
+71,72,Literature,Marketing,Software Development,Analytical Thinking,Impulsiveness,Music,Visual,Average,Doctor
+78,95,Business Studies,Research,Medicine,Patience,Weak Math,Debates,Visual,Poor,Lawyer
+75,75,Computer Science,Marketing,Finance,Analytical Thinking,Public Speaking,Music,Visual,Average,Doctor
+66,66,Physics,Research,Journalism,Patience,Public Speaking,Volunteering,Visual,Good,Mechanical Engineer
+79,61,Biology,Leadership,Robotics,Social Skills,Impulsiveness,Gaming,Theoretical,Poor,Journalist
+79,70,Chemistry,Leadership,Software Development,Social Skills,Weak Math,Volunteering,Theoretical,Good,Journalist
+76,85,Physics,Marketing,Robotics,Analytical Thinking,Weak Math,Music,Practical,Good,Psychologist
+66,71,Biology,Marketing,Law,Problem-Solving,Public Speaking,Hackathons,Practical,Good,Financial Analyst
+80,71,Business Studies,Marketing,AI,Creativity,Public Speaking,Debates,Visual,Average,Doctor
+71,93,Literature,Public Speaking,Medicine,Creativity,Shyness,Music,Practical,Excellent,Civil Engineer
+83,72,Physics,Public Speaking,Law,Creativity,Public Speaking,Gaming,Theoretical,Poor,Lawyer
+69,68,Chemistry,Leadership,AI,Patience,Shyness,Music,Visual,Excellent,Research Scientist
+66,71,Computer Science,Design,Medicine,Patience,Shyness,Volunteering,Visual,Good,Data Scientist
+67,84,Physics,Marketing,Medicine,Patience,Public Speaking,Volunteering,Theoretical,Average,Data Scientist
+74,61,Maths,Leadership,Finance,Patience,Shyness,Debates,Theoretical,Poor,Financial Analyst
+87,82,Business Studies,Marketing,Journalism,Patience,Weak Writing,Sports,Practical,Poor,Lawyer
+83,67,Literature,Design,Marketing,Logical Thinking,Weak Math,Sports,Theoretical,Poor,Data Scientist
+66,68,Business Studies,Writing,AI,Social Skills,Weak Writing,Debates,Visual,Average,Electrical Engineer
+75,79,Chemistry,Leadership,Journalism,Analytical Thinking,Shyness,Music,Theoretical,Average,Marketing Manager
+84,65,Maths,Design,AI,Patience,Weak Writing,Sports,Practical,Poor,Investment Banker
+83,90,Chemistry,Leadership,Marketing,Problem-Solving,Shyness,Volunteering,Practical,Poor,Doctor
+68,93,Physics,Leadership,Robotics,Problem-Solving,Impulsiveness,Volunteering,Theoretical,Excellent,Lawyer
+72,88,Maths,Marketing,Finance,Creativity,Impulsiveness,Sports,Practical,Average,Electrical Engineer
+75,79,Biology,Writing,Journalism,Logical Thinking,Weak Math,Debates,Visual,Excellent,Financial Analyst
+63,74,Maths,Leadership,Finance,Problem-Solving,Shyness,Gaming,Theoretical,Average,Lawyer
+67,81,Computer Science,Writing,Software Development,Patience,Public Speaking,Sports,Theoretical,Excellent,Data Scientist
+71,69,Literature,Leadership,Law,Social Skills,Public Speaking,Gaming,Visual,Good,Graphic Designer
+78,78,Literature,Debugging,AI,Problem-Solving,Impulsiveness,Debates,Theoretical,Average,Graphic Designer
+85,61,Computer Science,Marketing,AI,Analytical Thinking,Shyness,Debates,Theoretical,Poor,Doctor
+80,76,Computer Science,Research,Medicine,Problem-Solving,Shyness,Gaming,Practical,Average,Mechanical Engineer
+95,77,Literature,Marketing,Marketing,Creativity,Weak Math,Sports,Theoretical,Excellent,Psychologist
+90,80,Chemistry,Marketing,Medicine,Patience,Weak Math,Music,Visual,Good,Software Engineer
+66,95,Biology,Writing,Software Development,Creativity,Shyness,Gaming,Theoretical,Poor,Electrical Engineer
+86,94,Computer Science,Debugging,Robotics,Logical Thinking,Shyness,Debates,Theoretical,Excellent,Software Engineer
+61,87,Maths,Research,Marketing,Patience,Weak Math,Sports,Practical,Excellent,Research Scientist
+69,92,Maths,Leadership,Journalism,Patience,Impulsiveness,Gaming,Theoretical,Good,Psychologist
+62,93,Physics,Debugging,Robotics,Social Skills,Impulsiveness,Volunteering,Theoretical,Good,Journalist
+73,75,Literature,Programming,Software Development,Analytical Thinking,Weak Math,Gaming,Visual,Poor,Financial Analyst
+75,91,Biology,Leadership,Medicine,Analytical Thinking,Weak Math,Blogging,Practical,Average,Software Engineer
+75,79,Literature,Marketing,Finance,Logical Thinking,Weak Math,Volunteering,Visual,Excellent,Doctor
+61,91,Computer Science,Marketing,Journalism,Analytical Thinking,Weak Writing,Gaming,Practical,Good,Civil Engineer
+75,62,History,Marketing,Marketing,Social Skills,Weak Writing,Debates,Visual,Poor,Investment Banker
+84,84,History,Design,Law,Logical Thinking,Shyness,Music,Visual,Poor,Doctor
+65,69,History,Research,Marketing,Problem-Solving,Impulsiveness,Sports,Theoretical,Average,Investment Banker
+73,92,History,Programming,Marketing,Problem-Solving,Impulsiveness,Blogging,Practical,Average,Lawyer
+89,91,Maths,Marketing,Medicine,Social Skills,Public Speaking,Hackathons,Practical,Excellent,Investment Banker
+90,83,Physics,Design,Finance,Logical Thinking,Weak Math,Sports,Visual,Average,Investment Banker
+63,89,Chemistry,Marketing,Software Development,Analytical Thinking,Impulsiveness,Sports,Practical,Poor,Civil Engineer
+62,73,Computer Science,Programming,Journalism,Problem-Solving,Public Speaking,Blogging,Practical,Good,Journalist
+76,72,Chemistry,Research,Journalism,Logical Thinking,Shyness,Hackathons,Theoretical,Average,Investment Banker
+80,94,Literature,Marketing,Journalism,Analytical Thinking,Public Speaking,Gaming,Practical,Good,Civil Engineer
+88,67,Computer Science,Debugging,AI,Analytical Thinking,Public Speaking,Volunteering,Practical,Poor,Research Scientist
+80,62,Biology,Marketing,Software Development,Problem-Solving,Weak Writing,Debates,Theoretical,Good,Psychologist
+74,73,Chemistry,Writing,Journalism,Analytical Thinking,Weak Math,Blogging,Practical,Good,Doctor
+65,93,Computer Science,Writing,Medicine,Analytical Thinking,Weak Math,Sports,Visual,Poor,Psychologist
+90,76,Chemistry,Public Speaking,Software Development,Patience,Public Speaking,Hackathons,Theoretical,Good,Marketing Manager
+61,77,Physics,Writing,AI,Social Skills,Shyness,Volunteering,Practical,Average,Research Scientist
+65,64,Literature,Leadership,Robotics,Creativity,Public Speaking,Sports,Practical,Good,Marketing Manager
+75,81,Business Studies,Leadership,Law,Patience,Public Speaking,Blogging,Practical,Average,Graphic Designer
+71,81,Business Studies,Debugging,Marketing,Problem-Solving,Public Speaking,Gaming,Theoretical,Good,Psychologist
+60,80,Maths,Public Speaking,Marketing,Logical Thinking,Weak Math,Music,Visual,Good,Doctor
+76,84,Biology,Public Speaking,Law,Analytical Thinking,Impulsiveness,Gaming,Practical,Poor,Lawyer
+75,94,Maths,Debugging,Journalism,Logical Thinking,Weak Math,Sports,Visual,Excellent,Electrical Engineer
+86,67,History,Programming,Marketing,Problem-Solving,Weak Writing,Volunteering,Practical,Good,Electrical Engineer
+64,66,Physics,Writing,Medicine,Logical Thinking,Weak Math,Volunteering,Visual,Average,Investment Banker
+95,82,Physics,Marketing,Finance,Creativity,Weak Writing,Gaming,Practical,Average,Marketing Manager
+64,75,Literature,Marketing,Medicine,Problem-Solving,Weak Writing,Gaming,Theoretical,Poor,Mechanical Engineer
+78,72,Maths,Leadership,Marketing,Creativity,Weak Writing,Sports,Theoretical,Good,Marketing Manager
+82,72,History,Marketing,Software Development,Logical Thinking,Impulsiveness,Hackathons,Visual,Excellent,Financial Analyst
+88,85,Computer Science,Marketing,Law,Social Skills,Impulsiveness,Gaming,Theoretical,Average,Investment Banker
+75,80,Maths,Design,Medicine,Patience,Weak Writing,Sports,Visual,Poor,Financial Analyst
+88,60,Biology,Research,Robotics,Creativity,Impulsiveness,Gaming,Practical,Poor,Journalist
+87,61,Literature,Leadership,Robotics,Analytical Thinking,Weak Writing,Hackathons,Theoretical,Good,Psychologist
+91,86,Physics,Writing,Journalism,Problem-Solving,Weak Writing,Sports,Visual,Excellent,Graphic Designer
+75,84,Computer Science,Debugging,Journalism,Social Skills,Shyness,Volunteering,Visual,Poor,Journalist
+83,74,Business Studies,Programming,AI,Social Skills,Public Speaking,Hackathons,Visual,Average,Marketing Manager
+86,63,Maths,Marketing,AI,Logical Thinking,Public Speaking,Music,Practical,Poor,Lawyer
+82,79,Physics,Public Speaking,Law,Patience,Public Speaking,Volunteering,Visual,Excellent,Electrical Engineer
+81,86,Physics,Leadership,Marketing,Social Skills,Impulsiveness,Blogging,Visual,Poor,Research Scientist
+65,81,Biology,Design,Software Development,Analytical Thinking,Impulsiveness,Volunteering,Theoretical,Good,Data Scientist
+72,75,Computer Science,Writing,Journalism,Problem-Solving,Impulsiveness,Hackathons,Visual,Average,Civil Engineer
+84,91,Business Studies,Marketing,AI,Patience,Weak Math,Blogging,Visual,Average,Graphic Designer
+72,77,Business Studies,Research,Medicine,Patience,Public Speaking,Debates,Theoretical,Good,Data Scientist
+64,84,Computer Science,Marketing,Marketing,Patience,Public Speaking,Gaming,Practical,Good,Research Scientist
+93,65,Computer Science,Leadership,AI,Creativity,Impulsiveness,Music,Practical,Good,Financial Analyst
+77,71,Business Studies,Leadership,Medicine,Analytical Thinking,Weak Writing,Hackathons,Theoretical,Good,Journalist
+93,64,Chemistry,Debugging,Law,Patience,Public Speaking,Music,Visual,Good,Financial Analyst
+71,85,Literature,Leadership,Medicine,Analytical Thinking,Weak Writing,Gaming,Practical,Good,Software Engineer
+91,82,Computer Science,Leadership,Law,Creativity,Weak Writing,Sports,Theoretical,Average,Financial Analyst
+89,67,Physics,Writing,Medicine,Creativity,Weak Math,Debates,Practical,Excellent,Journalist
+64,68,Business Studies,Marketing,Marketing,Problem-Solving,Shyness,Music,Visual,Good,Lawyer
+81,73,Biology,Leadership,Finance,Creativity,Public Speaking,Hackathons,Visual,Good,Mechanical Engineer
+78,95,Business Studies,Debugging,Robotics,Creativity,Weak Writing,Music,Practical,Excellent,Graphic Designer
+84,69,History,Programming,AI,Social Skills,Impulsiveness,Volunteering,Practical,Average,Doctor
+84,69,Biology,Programming,Software Development,Problem-Solving,Public Speaking,Volunteering,Theoretical,Good,Marketing Manager
+89,77,Physics,Design,Software Development,Logical Thinking,Weak Math,Hackathons,Theoretical,Average,Data Scientist
+81,81,Biology,Research,Journalism,Problem-Solving,Public Speaking,Gaming,Practical,Excellent,Investment Banker
+80,95,Computer Science,Research,Robotics,Patience,Impulsiveness,Hackathons,Theoretical,Excellent,Journalist
+74,62,History,Programming,Marketing,Logical Thinking,Shyness,Gaming,Visual,Poor,Data Scientist
+60,61,Business Studies,Research,Marketing,Patience,Shyness,Volunteering,Visual,Average,Data Scientist
+67,63,History,Design,Finance,Social Skills,Weak Writing,Blogging,Visual,Poor,Investment Banker
+61,92,History,Leadership,Finance,Patience,Shyness,Blogging,Practical,Average,Financial Analyst
+93,89,Maths,Public Speaking,Finance,Analytical Thinking,Shyness,Debates,Theoretical,Average,Journalist
+75,95,History,Debugging,AI,Logical Thinking,Public Speaking,Music,Theoretical,Poor,Data Scientist
+93,71,Business Studies,Design,Law,Patience,Weak Writing,Gaming,Practical,Excellent,Journalist
+87,81,Physics,Research,Law,Social Skills,Impulsiveness,Gaming,Visual,Good,Research Scientist
+84,71,Biology,Design,Finance,Logical Thinking,Weak Math,Volunteering,Theoretical,Average,Psychologist
+90,68,Physics,Programming,Robotics,Analytical Thinking,Weak Writing,Hackathons,Theoretical,Excellent,Software Engineer
+84,64,Biology,Research,Finance,Problem-Solving,Shyness,Volunteering,Theoretical,Poor,Lawyer
+71,63,Biology,Public Speaking,Medicine,Logical Thinking,Public Speaking,Volunteering,Practical,Good,Investment Banker
+67,66,Maths,Research,Finance,Creativity,Weak Math,Hackathons,Practical,Good,Financial Analyst
+69,89,History,Marketing,Marketing,Analytical Thinking,Weak Math,Volunteering,Practical,Good,Marketing Manager
+69,93,Chemistry,Writing,Law,Social Skills,Weak Writing,Gaming,Visual,Average,Software Engineer
